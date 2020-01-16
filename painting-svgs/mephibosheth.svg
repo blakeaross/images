@@ -1,6 +1,5 @@
 <svg version="1.1" width="2675" height="1230" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="2675" height="1230" fill="#d79762" />
-<g transform="scale(2.6123, 2.61702)">
+<g transform="translate(1337 615)">
 <path d="M -16 0 L 222 -16 L 8 485 Z" fill="#312d39" fill-opacity="0.501961" />
 <path d="M 75 214 L 728 -16 L 726 485 Z" fill="#f8dea9" fill-opacity="0.501961" />
 <path d="M 1018 485 L 702 79 L 1039 -16 Z" fill="#fe5700" fill-opacity="0.501961" />
