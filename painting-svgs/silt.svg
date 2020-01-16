@@ -1,6 +1,4 @@
-<svg version="1.1" width="2502" height="1090" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="2502" height="1090" fill="#7a6c5b" />
-<g transform="scale(2.44336, 2.44395)">
+<svg version="1.1" width="1024" height="446" xmlns="http://www.w3.org/2000/svg">
 <path d="M 49 461 L -16 0 L 393 -15 Z" fill="#a2cffc" fill-opacity="0.501961" />
 <path d="M 1039 433 L 360 461 L 368 -16 Z" fill="#5c3607" fill-opacity="0.501961" />
 <path d="M 50 461 L 366 26 L 358 461 Z" fill="#7dacdd" fill-opacity="0.501961" />
@@ -501,5 +499,4 @@
 <path d="M 276 119 L 280 84 L 272 104 Z" fill="#1c2538" fill-opacity="0.501961" />
 <path d="M 507 43 L 493 -16 L 509 1 Z" fill="#484638" fill-opacity="0.501961" />
 <path d="M 75 252 L 68 230 L 68 273 Z" fill="#637f98" fill-opacity="0.501961" />
-</g>
 </svg>
